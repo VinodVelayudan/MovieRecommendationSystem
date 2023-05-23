@@ -10,7 +10,8 @@ Our movie recommendation system is a powerful tool that takes your unique prefer
 
 git link : https://github.com/VinodVelayudan/MovieRecommendationSystem.git
 
-2.Download the Dataset that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under main folder (Credit-Card-Fraud-Detection)
+2.Download the Dataset that will be used to train a transaction classifier. Unzip it and put the content (TMDB_5000_movie.csv &  TMDB_5000_credits.csv) under main folder (TMDB 5000 Movie Dataset)
+
 Dataset link :https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/code?select=tmdb_5000_movies.csv
 
 3.install required python packages if previously not installed
